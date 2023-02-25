@@ -229,31 +229,6 @@ nav .logo.space{
   margin: 10px 0;
 }
 
-.nav-flex-row {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    position: absolute;
-    z-index: 100;
-    left: 0;
-    width: 100%;
-    padding: 0;
-}
-
-.nav-flex-row li {
-    text-decoration: none;
-    list-style-type: none;
-    padding: 20px 15px;
-}
-
-.nav-flex-row li a {
-    font-family: 'Big Shoulders Text', cursive;
-    color: #ffffff;
-    font-size: 2.55em;
-    text-transform: uppercase;
-    font-weight: 300;
-}
-
 .section-intro {
     height: 820px;
     background-image: url(https://scontent.fmnl3-2.fna.fbcdn.net/v/t1.6435-9/117303144_3386766631366704_4973742414559978294_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeEGyXPyHBsThbnXfm4QldAtn94tIHyePaCf3i0gfJ49oJuNKgj8xwfawjpYenEQfMU&_nc_ohc=PB1_HX8jVXIAX_Qosz4&_nc_ht=scontent.fmnl3-2.fna&oh=00_AfAqX4NIUwSO5KARVJUKOdl_ssY2he5vM835_YlDOVJebw&oe=6416EDFF);
